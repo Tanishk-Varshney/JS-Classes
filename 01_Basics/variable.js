@@ -8,6 +8,7 @@ name = "Prince"
 surname = "Gupta"
 city = "Roorkee"
 
+
 console.log(number)
 console.log(name)
 console.log(surname)
