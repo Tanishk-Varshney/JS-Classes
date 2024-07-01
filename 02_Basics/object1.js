@@ -13,7 +13,7 @@ const JsUser = {
   location: "Jaipur",
   email: "Tanishk@google.com",
   isLoggedIn: true,
-  lastLoginDays: ["Monday", "Saturday"],
+  lastLoginDays: ["Monday", "Saturday"]
 };
 
 // console.log(JsUser.email)
