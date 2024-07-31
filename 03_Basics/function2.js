@@ -10,15 +10,18 @@ const user = {
     prices: 9999
 }
 
+
 function handleObject(anyobject){
     console.log(`Username is ${anyobject.username} and price is ${anyobject.price}`);
 }
 
 // handleObject(user)
+
 handleObject({
     username: "Varshney",
     price: 999
 })
+
 
 const myNewArray = [200, 400, 100, 600]
 
